@@ -7,7 +7,10 @@
       "Bash(ls /Users/abaldinazzo/ClaudeCode/knowledge-hub/app/\\\\\\(dashboard\\\\\\)/)",
       "Bash(supabase --version)",
       "Bash(brew install:*)",
-      "Bash(supabase init:*)"
+      "Bash(supabase init:*)",
+      "Bash(mkdir -p /Users/abaldinazzo/ClaudeCode/knowledge-hub/app/\\\\\\(dashboard\\\\\\)/intervista/[id]/canvas)",
+      "Bash(mkdir -p /Users/abaldinazzo/ClaudeCode/knowledge-hub/app/\\\\\\(dashboard\\\\\\)/intervista/[id]/brief)",
+      "Bash(node:*)"
     ]
   }
 }
