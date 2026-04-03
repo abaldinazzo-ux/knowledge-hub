@@ -2,7 +2,12 @@
   "permissions": {
     "allow": [
       "Bash(npx:*)",
-      "Bash(npm install:*)"
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(ls /Users/abaldinazzo/ClaudeCode/knowledge-hub/app/\\\\\\(dashboard\\\\\\)/)",
+      "Bash(supabase --version)",
+      "Bash(brew install:*)",
+      "Bash(supabase init:*)"
     ]
   }
 }
